@@ -34,11 +34,11 @@ It involves the following steps:
 
 **3. Exploaratory Data Analysis:**
 
-  Try visualizing outliers and skewness(before and after treating skewness using Seaborn’s boxplot.
+  * Try visualizing outliers and skewness(before and after treating skewness using Seaborn’s boxplot.
 
 **4. Feature Engineering:**
 
-Engineer new features if applicable, such as aggregating or transforming existing features to create more informative representations of the data.
+  * Engineer new features if applicable, such as aggregating or transforming existing features to create more informative representations of the data.
 
 
 
