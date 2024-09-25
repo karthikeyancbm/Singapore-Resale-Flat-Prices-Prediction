@@ -19,4 +19,14 @@ It involves the following steps:
   * Data Transforamtion
   * Data Enrichment
 
+**Data Cleaning:**
+
+  * Handle missing values with mean/median/mode.
+  * Treat Outliers using IQR
+  * Identify Skewness in the dataset and treat skewness with appropriate data transformations,
+    such as log transformation.
+  * Encode categorical variables using suitable techniques, such as one-hot encoding, label encoding,
+    or ordinal encoding, based on their nature and relationship with the target variable.
+
+
 
