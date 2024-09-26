@@ -1,1 +1,2 @@
-c
+with open('Regression_model.pkl',"rb") as r1:
+    regg_model = pickle.load(r1)
