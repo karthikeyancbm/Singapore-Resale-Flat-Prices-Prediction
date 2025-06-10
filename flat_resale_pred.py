@@ -62,6 +62,8 @@ def re_sale_price(input_data):
     input_data_array = np.array(input_data)
     re_sale_price_prediction = regg_model.predict(input_data)
     return re_sale_price_prediction
+
+st._config.set_option('theme.base','dark')
      
 st.set_page_config(layout='wide')
 
